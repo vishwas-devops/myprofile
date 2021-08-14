@@ -1,2 +1,2 @@
 # myprofile
-Senior Software Engineer ( Devops Role )
+Data Analyst | DevOps | Tableau | Python | ML | IT Analyst
